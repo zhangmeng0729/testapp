@@ -21,4 +21,7 @@
     <string name="test_time">考试时间</string>
     <string name="save">返回首页</string>
     <string name="again">继续学习</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 </resources>

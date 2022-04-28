@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("name",Name);
         intent.putExtra("class",Class);
 
-        intent.setClass(MainActivity.this,FenleiActivity.class);
+        intent.setClass(MainActivity.this,muluActivity.class);
         startActivity(intent);
     }
 
