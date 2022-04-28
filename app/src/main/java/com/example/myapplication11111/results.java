@@ -61,7 +61,7 @@ public class results extends AppCompatActivity {
     }
 
     public void againClick(View view) {
-        Intent intent1 = new Intent(results.this,FenleiActivity.class);
+        Intent intent1 = new Intent(results.this,muluActivity.class);
         startActivity(intent1);
     }
 }

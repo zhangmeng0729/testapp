@@ -19,6 +19,10 @@ public class muluActivity extends AppCompatActivity {
         startActivity(intent1);
     }
 
+    public void one1Click(View view){
+        Intent intent1 = new Intent(muluActivity.this,TestActivity.class);
+        startActivity(intent1);
+    }
 
     public void twoClick(View view){
         Intent intent2 = new Intent(muluActivity.this,TestActivity.class);
@@ -31,7 +35,16 @@ public class muluActivity extends AppCompatActivity {
     }
 
 
-    public void foursClick(View view){
+    public void fourClick(View view){
+        Intent intent2 = new Intent(muluActivity.this,TestActivity.class);
+        startActivity(intent2);
+    }
+
+    public void fiveClick(View view){
+        Intent intent2 = new Intent(muluActivity.this,TestActivity.class);
+        startActivity(intent2);
+    }
+    public void sixClick(View view){
         Intent intent2 = new Intent(muluActivity.this,TestActivity.class);
         startActivity(intent2);
     }
